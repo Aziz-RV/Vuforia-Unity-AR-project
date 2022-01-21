@@ -8,5 +8,5 @@ This application uses augmented reality (Unity/Vuforia).
 3. This app si tested with a camera of a laptop. 
 ## In progress: 
 Use the same app on an Android or iOS
-
+## Example of the app
 ![anim](https://user-images.githubusercontent.com/73020056/147888952-fe92c268-3b5c-4e7f-9909-80eb7fa3b631.PNG)
