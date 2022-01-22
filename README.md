@@ -2,6 +2,8 @@
 This application uses augmented reality (Unity/Vuforia). 
 ## What it does? 
 1. can detect two images: For each image it displays the object corresponding to the corresponding to the image.  
+![vuforia-unity-digital-assets](https://user-images.githubusercontent.com/73020056/150638010-09dba42b-9826-43b8-9814-16eee3f6c9de.png)
+
 2. some interactions added to our objects by:  
 -the use of the keyboard to make animations for a first object  
 -the use of a virtual button to make animations for the second object  
